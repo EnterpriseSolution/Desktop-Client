@@ -23,8 +23,8 @@ An enterprise resource planning (ERP) solution effectively manages the full manu
 - Engineering
 - Prod./Material Control
 - Shop Floor Control
-- Production Planning <br />
-
+- Production Planning 
+  
 - Accounts Payable
 - Accounts Receivable
 - General Ledger  <br />
@@ -35,9 +35,11 @@ An enterprise resource planning (ERP) solution effectively manages the full manu
 - Logistics
 
 ##  Workflow
-- Generate and send report every day or by schedule
-- 
-
+- Support Transaction Workflow, trigger by Transaction Created,Transaction Updated,Transaction  Deleted,Transaction Closed,Transaction Posted
+- Support Job, can generate and send report every day or by schedule
+- Support Approval Purchase Requisition => Manager Approval
+- Support Notification
+  
 ## Document Integration
 - Storage location can be FTP,SQL Server,Shared Folder
 - Seamly integrated with document entry
